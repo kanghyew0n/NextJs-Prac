@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 const PortfolioPage = () => {
+  
   return (
     <div>
       <h1>PortfolioPage</h1>
